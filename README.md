@@ -5,7 +5,7 @@ A calculator project built with React.
 ## Installation
 
 
-1. `cd calculator`
+1. `cd calcu-react`
 
 2. `npm install`
 
